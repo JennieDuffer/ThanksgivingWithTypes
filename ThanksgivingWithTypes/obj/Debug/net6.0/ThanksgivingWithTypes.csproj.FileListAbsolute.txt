@@ -1,0 +1,15 @@
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\bin\Debug\net6.0\ThanksgivingWithTypes.exe
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\bin\Debug\net6.0\ThanksgivingWithTypes.deps.json
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\bin\Debug\net6.0\ThanksgivingWithTypes.runtimeconfig.json
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\bin\Debug\net6.0\ThanksgivingWithTypes.dll
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\bin\Debug\net6.0\ThanksgivingWithTypes.pdb
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\obj\Debug\net6.0\ThanksgivingWithTypes.csproj.AssemblyReference.cache
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\obj\Debug\net6.0\ThanksgivingWithTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\obj\Debug\net6.0\ThanksgivingWithTypes.AssemblyInfoInputs.cache
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\obj\Debug\net6.0\ThanksgivingWithTypes.AssemblyInfo.cs
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\obj\Debug\net6.0\ThanksgivingWithTypes.csproj.CoreCompileInputs.cache
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\obj\Debug\net6.0\ThanksgivingWithTypes.dll
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\obj\Debug\net6.0\refint\ThanksgivingWithTypes.dll
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\obj\Debug\net6.0\ThanksgivingWithTypes.pdb
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\obj\Debug\net6.0\ThanksgivingWithTypes.genruntimeconfig.cache
+C:\Users\jenni\Desktop\Repos\ThanksgivingWithTypes\ThanksgivingWithTypes\obj\Debug\net6.0\ref\ThanksgivingWithTypes.dll
